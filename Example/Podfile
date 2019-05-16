@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GSRouter_Example' do
+  pod 'GSRouter', :path => '../'
+
+  target 'GSRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

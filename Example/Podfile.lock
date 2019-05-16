@@ -1,0 +1,16 @@
+PODS:
+  - GSRouter (0.1.0)
+
+DEPENDENCIES:
+  - GSRouter (from `../`)
+
+EXTERNAL SOURCES:
+  GSRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GSRouter: 4f7de4d6de00297514ec02f2306c35287e2aad1d
+
+PODFILE CHECKSUM: d3cbeda8b315c79bf423b5b8998d7cd8506463a6
+
+COCOAPODS: 1.7.0.rc.1
